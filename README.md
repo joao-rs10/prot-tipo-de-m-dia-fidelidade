@@ -1,1 +1,1 @@
-# prot-tipo-de-m-dia-fidelidade
+Protótipo de Média Fidelidade – Interface Simulada
